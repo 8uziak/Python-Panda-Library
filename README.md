@@ -1,3 +1,3 @@
 ### Description
 
-[alpha] Python projects using Panda's library.
+[beta] Python projects using Panda's library.
